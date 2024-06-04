@@ -24,9 +24,9 @@ works, and perform publicly and display publicly, and to permit others to do so.
 
 ****************************
 
-! This program was developed by Ji Qiang (jqiang@lbl.gov) of the Lawrence Berkeley National Lab.
+This program was developed by Ji Qiang (jqiang@lbl.gov) of the Lawrence Berkeley National Lab.
 
-!.........................................................................
+.........................................................................
 
 Some features include:
 
@@ -46,5 +46,5 @@ user's application program.
 
 The outputs are obj.out (objective function values) and pop.out (control parameter values).
 
-!.........................................................................
+..........................................................................
 
