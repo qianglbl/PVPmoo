@@ -1,5 +1,5 @@
 # PVPmoo
-PVPmoo: A parallel variable population multi-objective optimizer
+PVPmoo: A Parallel Variable Population Multi-Objective Optimizer
 
 ****************************
 
@@ -23,3 +23,20 @@ works, and perform publicly and display publicly, and to permit others to do so.
 
 
 ****************************
+
+! This program was developed by Ji Qiang (jqiang@lbl.gov) of the Lawrence Berkeley National Lab.
+
+!.........................................................................
+! Some features include:
+! 1) The population size varies from generation to generation.
+! 2) The population is uniformly distributed to a number of parallel processors
+! 3) The objective functions are attained from the ouptputs of an external serial program.
+! Ref: J. Qiang, "A parallel variable population multi-objective optimizer for
+! accelerator beam dynamics optimization," Nuclear Inst. and Methods in Physics Research,
+! A 1054 (2023) 168402.
+! The optimization input parameters are in pvpmoo.in.
+! The objective function file "objfunc.f90" should be modified according to
+! user's application program.
+!.........................................................................
+!
+
