@@ -1,0 +1,1 @@
+ftn -o xpvp -O3 -fallow-argument-mismatch parallel.f90 objfunc.f90 pvpmoo.f90

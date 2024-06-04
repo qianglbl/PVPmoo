@@ -1,1 +1,1 @@
-
+ftn -o xpvp -O3 parallel.f90 objfunc.f90 pvpmoo.f90
