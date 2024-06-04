@@ -1,0 +1,12 @@
+4 2 100 /# of control parameters; # of objective functions; maximum # of generations
+32 16 64 128 /initial population size; mini. pop size; maxi. pop. size; maxi. external storage size
+1 1 2 /switch of nomdominated sorting (1 for 1st obj. sorted first,  2 for no-order sorting, 3 for last obj. sorted first, otherwise 1st or last obj. randomly sorted.); switch for generating initial parents (1 for random sampling, 5 for read-in with re-evalution of objective function values, otherise, just read-in.); sample initial population using a random sampling (1) or a quasi-random sampling (2)
+-100 /random number seed
+0.0 0.0 0.0 0.0 0.5 /mini. and maxi. ranges of 5 hyper-parameters used in uDE
+1.0 1.0 1.0 1.0 1.0
+1.0 1.0 1.0 1.0 1.0 /probablity to keep these 5 hyper-parameters from generation to generation
+1 1.0 20.0 20.0 /switch for uDE (1) or GA (2) or with probde probability of uDE; probability of using uDE for next generation children production; parameters used in GA; parameters used in GA
+135 139 141 150 /row line # of the control parameters in the input.in file
+8 8 16 8 /column variable # of the control parameters in the input.in file
+-10.0 140.0 0.02 200.0 /lower bounds of the control parameters
+10.0 180.0 0.04 240.0 /upper bounds of the control parameters
