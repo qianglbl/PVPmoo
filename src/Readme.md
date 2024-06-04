@@ -30,14 +30,17 @@
 ! 1) The population size varies from generation to generation.
 ! 2) The population is uniformly distributed to a number of parallel processors
 ! 3) The objective function are attained from the ouptputs of an external serial program.
+
 ! Ref: J. Qiang, "A parallel variable population multi-objective optimizer for
 ! accelerator beam dynamics optimization," Nuclear Inst. and Methods in Physics Research,
 ! A 1054 (2023) 168402.
+
 ! The optimization input parameters are in pvpmoo.in.
+
 ! The objective function file "objfunc.f90" should be modified according to 
 ! user's application program.
 !.........................................................................
-!
+
 The compile or compilegnu file should be modified with correct
 Fortran compiler such as mpif90.
 
