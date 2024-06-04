@@ -31,5 +31,5 @@ injector configuration will be executed in the temporary directory.
 To run the optimizer, use "srun -n 16 ./xpvp" or "mpirun -n 16 ./xpvp".
 Here, 16 is the number of processors used in the optimizer. 
 
-It is OK to see the printout "cp: -r not specified; omitting directory 'tmp7'".
+It is OK to see the printout "cp: -r not specified; omitting directory 'tmp0'", etc.
 
