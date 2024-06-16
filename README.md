@@ -1,5 +1,4 @@
-# PVPmoo
-PVPmoo: A Parallel Variable Population Multi-Objective Optimizer
+# PVPmoo: A Parallel Variable Population Multi-Objective Optimizer
 
 ****************************
 
