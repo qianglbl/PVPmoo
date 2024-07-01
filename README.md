@@ -23,7 +23,7 @@ works, and perform publicly and display publicly, and to permit others to do so.
 
 ****************************
 
-This program was developed by Ji Qiang (jqiang@lbl.gov) of the Lawrence Berkeley National Lab.
+Contact: Ji Qiang (jqiang@lbl.gov) of the Lawrence Berkeley National Lab.
 
 .........................................................................
 
