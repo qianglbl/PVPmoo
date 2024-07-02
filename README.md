@@ -35,7 +35,9 @@ Some features include:
 
 3) The objective functions are attained from the ouptputs of an external serial program.
 
-Ref: J. Qiang, "A parallel variable population multi-objective optimizer for
+Citation:
+
+J. Qiang, "A parallel variable population multi-objective optimizer for
 accelerator beam dynamics optimization," Nuclear Inst. and Methods in Physics Research,
 A 1054 (2023) 168402.
 
